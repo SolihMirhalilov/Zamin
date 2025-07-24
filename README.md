@@ -25,7 +25,7 @@ ZAMIN — bu ko‘p kategoriyali onlayn marketplace bo‘lib, foydalanuvchilar t
 
 | Ism      | Vazifa                                    |
 |----------|-------------------------------------------|
-| Salih    | Team Lead, front-end, ui-ux               |
+| Solih    | Team Lead, front-end, ui-ux               |
 | Izzatbek | Full-stack                                |
 | Jamshid  | Back-end                                  |
 
