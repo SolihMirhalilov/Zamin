@@ -9,7 +9,7 @@ ZAMIN — bu ko‘p kategoriyali onlayn marketplace bo‘lib, foydalanuvchilar t
 
 **Frontend:** React, Tailwind CSS  
 **Backend:** Node.js, Express  
-**Database:** PostgreSQL  
+**Database:** MongoDB  
 **Deploy:** Vercel (frontend), Render (backend)
 
 
@@ -23,11 +23,11 @@ ZAMIN — bu ko‘p kategoriyali onlayn marketplace bo‘lib, foydalanuvchilar t
 
 ## Rollar
 
-| Ism      | Vazifa                                    |
-|----------|-------------------------------------------|
-| Solih    | Team Lead, front-end, ui-ux               |
-| Izzatbek | Full-stack                                |
-| Jamshid  | Back-end                                  |
+| Ism       | Vazifa                                    |
+|-----------|-------------------------------------------|
+| Solih     | Team Lead, front-end, ui-ux               |
+| Abdullajon| Back-end                                  |
+| Dilshod   | Back-end                                  |
 
 ---
 
