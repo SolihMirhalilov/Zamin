@@ -25,7 +25,7 @@ ZAMIN — bu ko‘p kategoriyali onlayn marketplace bo‘lib, foydalanuvchilar t
 
 | Ism       | Vazifa                                    |
 |-----------|-------------------------------------------|
-| Solih     | Team Lead, front-end, ui-ux               |
+| Solih     | Teah Leader, front-end, ui-ux             |
 | Abdullajon| Back-end                                  |
 | Dilshod   | Back-end                                  |
 
